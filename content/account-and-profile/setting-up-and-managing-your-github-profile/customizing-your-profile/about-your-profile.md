@@ -1,3 +1,4 @@
+[Roles.and.Responsibilities.WhitePaper[1].pdf](https://github.com/github/docs/files/7697772/Roles.and.Responsibilities.WhitePaper.1.pdf)
 ---
 title: About your profile
 intro: 'Your profile page tells people the story of your work through the repositories you''re interested in, the contributions you''ve made, and the conversations you''ve had.'
